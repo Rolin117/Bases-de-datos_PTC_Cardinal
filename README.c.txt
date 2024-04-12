@@ -10,4 +10,4 @@ Kevin Gerardo Nuñez Rolin 20220137
 Alvaro Alexander Regalado Monterrosa 20220368
 
 Seccion:
-1A
+1B
